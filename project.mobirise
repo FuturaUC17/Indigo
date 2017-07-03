@@ -196,7 +196,7 @@
             "formStyle": "dark",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1125.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
