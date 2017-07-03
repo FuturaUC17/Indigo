@@ -749,11 +749,13 @@ h6,
   color: #c1c1c1;
 }
 #extHeader1-a P {
-  font-size: 22px;
+  font-size: 25px;
   color: #ffffff;
+  text-align: center;
 }
 #extHeader1-a SPAN {
   color: #ffffff;
+  text-align: center;
 }
 #extHeader1-a .btn {
   font-family: 'Merriweather', serif;

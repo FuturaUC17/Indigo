@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-06-30_2109",
+    "name": "Indigo1",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,13 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 20,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -136,6 +142,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-3",
           "_params": {
             "paddingTop": "1",
@@ -149,12 +160,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 Futura Systems, Inc. All rights reserved.<br>100 Ashford Center North, Suite 501, Atlanta, GA 30338. Tel: (678) 906-2575&nbsp;<br>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text": "Copyright © 2017 Futura Systems, Inc. All rights reserved.<br>100 Ashford Center North, Suite 501, Atlanta, GA 30338. Tel: (678) 906-2575&nbsp;<br>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -162,6 +168,27 @@
             "Extension"
           ],
           "_name": "extHeader1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "100px",
+              "color": "#c1c1c1"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
           "_anchor": "extHeader1-a",
           "_params": {
             "formBorder": true,
@@ -169,7 +196,7 @@
             "formStyle": "dark",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -177,7 +204,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
@@ -214,28 +241,9 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LOGIN</a>",
-          "title": "<span style=\"letter-spacing: -1px; line-height: 1.1;\">INDIGO</span><span style=\"letter-spacing: -1px; line-height: 1.1;\">&nbsp;</span><br>",
+          "title": "<span style=\"letter-spacing: -1px; line-height: 1.1;\">INDIGO &nbsp;</span><span style=\"letter-spacing: -1px; line-height: 1.1;\">&nbsp;</span><br>",
           "text": "Next Generation Utility Operations Management",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "100px",
-              "color": "#c1c1c1"
-            },
-            "P": {
-              "font-size": "22px",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -527,6 +535,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-g",
           "_params": {
             "parallax": true,
@@ -549,12 +562,7 @@
           },
           "title": "THIS WOULD BE A SCREEN THAT ALLOWED YOU TO PUT IN YOUR USERNAME AND EMAIL AND IT WOULD GENERATE A NEW PASSWORD",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -689,6 +697,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
           "_anchor": "header1-j",
           "_params": {
             "parallax": true,
@@ -711,12 +724,7 @@
           },
           "title": "THIS COULD BE SOME INFORMATION ABOUT INDIGO / MAYBE A LINK TO HELP DOCUMENTS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
